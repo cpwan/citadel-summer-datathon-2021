@@ -24,6 +24,7 @@ For example,
 
 
 ## Spatial temporal analysis
+>[spatial_temporal_analysis.ipynb](https://github.com/cpwan/citadel-summer-datathon-2021/blob/eda/spatial_temporal_analysis.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ncr8bH4-NcR38K6lqWKcvV09aQNqkzSw?usp=sharing)
 
