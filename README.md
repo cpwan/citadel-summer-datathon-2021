@@ -155,9 +155,11 @@ Using the `occupancy rate` from the wrangled **calendar_geo** dataset we are abl
 
 ### 3.4 Effect of Multiple Listing on locational patterns
 
+| Location of Airbnb listings in Los Angeles|
+|:------------:|
 ![](https://i.imgur.com/O83he2Y.gif)
 
-The above figure shows the locations of Los Angeles listings based on whether they are a multiple listing. The darkness of a point is based on its price/capacity. This figure motivates our investigation into the relationship of spatial 
+The above figure shows the locations of Los Angeles listings based on whether they are a multiple listing. The darkness of a point is based on its price/capacity. This figure motivates our investigation into the relationship between the spacial position of multiple listings and venues of interest surrounding them.
 
 We analyze the locational patterns of the Single Listing owners and the Multiple Listing owners. We extract the counts of different types of venues in the $r$-km radius circle of the listings from Single Listing owners and Multiple Listing owners respectively. 
 
