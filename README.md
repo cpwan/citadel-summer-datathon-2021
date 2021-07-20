@@ -2,7 +2,7 @@
 
 [Report (HTMl version)](https://cpwan.github.io/citadel-summer-datathon-2021/)
 
-[Codes](https://github.com/cpwan/citadel-summer-datathon-2021/tree/eda)
+[Codes](https://github.com/cpwan/citadel-summer-datathon-2021/tree/main/codes)
 
 
 
